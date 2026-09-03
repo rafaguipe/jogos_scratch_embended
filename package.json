@@ -1,0 +1,16 @@
+{
+  "name": "scratch-academy",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Scratch Academy MVP 0.1 — plataforma de ensino de programação baseada em missões com Scratch/TurboWarp. O aluno nunca começa com a tela em branco: toda aprendizagem parte da modificação de um jogo funcional.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "make:demo-game": "node scripts/make_demo_game.mjs"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}

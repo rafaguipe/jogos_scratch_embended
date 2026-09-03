@@ -1,0 +1,9 @@
+{
+  "id": "lesson1",
+  "title": "Missão 1",
+  "order": 1,
+  "game": "game.sb3",
+  "solution": "solution.sb3",
+  "instructions": "instructions.md",
+  "hints": "hints.md"
+}

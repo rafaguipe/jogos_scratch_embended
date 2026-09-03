@@ -1,0 +1,17 @@
+{
+  "id": "lesson1",
+  "title": "Faça o personagem andar duas vezes mais rápido",
+  "subtitle": "Primeiros passos com blocos de movimento",
+  "difficulty": 1,
+  "durationMinutes": 10,
+  "author": "Rafael",
+  "created": "2026-08-07",
+  "language": "pt-BR",
+  "tags": ["movimento", "lacos", "velocidade"],
+  "objectives": [
+    "Ler um script com blocos de movimento",
+    "Alterar valores de blocos",
+    "Observar causa e efeito no jogo"
+  ],
+  "concepts": ["motion", "loops", "iteracao"]
+}
